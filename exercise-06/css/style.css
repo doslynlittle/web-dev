@@ -5,10 +5,7 @@ h1{
   width:100%;
   height: 250px;
 }
-#red{background-color: red}
-#white{background-color: white}
-#red{background-color: red}
-#white{background-color: white}
+
 
 body {
    background-color: #DDDFD4;
@@ -26,3 +23,7 @@ body {
 h3{
   color: white
 }
+#red{background-color: red}
+#white{background-color: white}
+#red{background-color: red}
+#white{background-color: white}

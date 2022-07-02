@@ -27,10 +27,29 @@ form{color: white
 margin-left: 500px; margin-top: 50px
 }
 #contact-page{margin-left: 350px}
+.site-info{
+margin: 2em 2em 2em 2em;
+text-align: center;
+font-size: 18pt;
+text-align: center;
+}
 
-#site-links{}
+.logo{background-color: #fff; width: 150px; height: 150px;
+  margin: auto;
+border: ;
+border-radius: 100%;
+line-height: 150px
+
+}
+
+
 .site-links a{
   display: block;
+  font-size: 18pt;
+  text-align: center;
+}
+a:hover {
+  color: white;
 }
 .dot{
   height: 150px;
